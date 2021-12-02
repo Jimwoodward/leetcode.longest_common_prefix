@@ -1,4 +1,4 @@
-package leetcode_longest_common_prefix
+package main
 
 import (
 	"testing"
